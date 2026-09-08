@@ -30,4 +30,4 @@ The progress text shows the file being installed. Cancel or the window Close but
 
 ## About this repository
 
-This is the official download repository. It contains installation instructions and release files only. Development source, source archives, user profiles, credentials, and project data are not published here.
+This is the official download repository. It contains installation instructions and release files only. GitHub automatically labels repository archives as Source code; those downloads contain only this repository's documentation, logo, and ignore file. Application development source is maintained separately. User profiles, credentials, and project data are not stored here.
