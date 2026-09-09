@@ -4,11 +4,11 @@
 
 A local workspace for Codex and Claude Code, with voice controls and agent teams.
 
-[Download IDE4 0.4.24 for Windows](https://github.com/logangrant98/IDE4/releases/download/v0.4.24/IDE4-Setup-0.4.24.exe)
+[Download IDE4 0.4.25 for Windows](https://github.com/logangrant98/IDE4/releases/download/v0.4.25/IDE4-Setup-0.4.25.exe)
 
 ## Install
 
-1. Download **IDE4-Setup-0.4.24.exe** from the latest release.
+1. Download **IDE4-Setup-0.4.25.exe** from the latest release.
 2. Run setup, choose your folder, and select any shortcuts you want.
 3. Open **IDE4**, enter your name and optional profile image, then connect your services.
 
@@ -16,7 +16,7 @@ Your profile, memory, projects, and conversations stay on your computer. AI prov
 
 ## Website download button
 
-Link directly to the installer: [IDE4-Setup-0.4.24.exe](https://github.com/logangrant98/IDE4/releases/download/v0.4.24/IDE4-Setup-0.4.24.exe). Visitors download the file from GitHub Releases. The repository and release must be public for visitors without GitHub access.
+Link directly to the installer: [IDE4-Setup-0.4.25.exe](https://github.com/logangrant98/IDE4/releases/download/v0.4.25/IDE4-Setup-0.4.25.exe). Visitors download the file from GitHub Releases. The repository and release must be public for visitors without GitHub access.
 
 For a link that always opens the newest release, use [Latest release](https://github.com/logangrant98/IDE4/releases/latest).
 

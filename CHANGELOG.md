@@ -1,5 +1,16 @@
 # Releases
 
+## 0.4.25
+
+# IDE4 0.4.25
+
+- IDE4 now verifies your account and plan online at startup, then rechecks while the app is open. Clear screens help you sign in, reconnect, or update. Prototype access remains free.
+- A new Subscription section in Settings shows your current plan, account, access status, and last verification.
+- Minimize finished agents into the Archived section below your panels. Compact cards show their logo, name, token usage, and summary. Click to reopen with the full conversation and unsent draft intact.
+- Smooth minimize and restore animations respect reduced-motion preferences. The `/archive` command now keeps the pane in this reversible Archived section.
+
+An internet connection and IDE4 sign-in are required at startup. Local projects and conversations stay on your PC. AI provider subscriptions and API charges remain separate from IDE4 access.
+
 ## 0.4.24
 
 # IDE4 0.4.24
